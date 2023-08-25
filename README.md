@@ -26,7 +26,7 @@ To get started, follow these steps:
 1. Clone this repository: `git clone https://github.com/jnordberg/tortoise-tts.git`
 2. Navigate to the tortoise directory: `cd tortoise-tts`
 3. Set up your virtual environment: `virtualenv venv && source venv/bin/activate` OR use the Google Colab Demo I have provided and run the cells gradually. 
-4. Install dependencies: 
+4. Install dependencies.
 
 ## Usage
 
@@ -41,7 +41,7 @@ To train the TortoiseTTS model, follow these steps:
 
 Generate speech using the trained model:
 
-1. Synthesis  & generate a speech for the text you have inputtedl
+1. Synthesis  & generate a speech for the text you have inputted.
 
 ## Voice Cloning
 
@@ -57,7 +57,7 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 1. Fork the repository.
 2. Create a new branch for your feature/bugfix: `git checkout -b feature-name`.
-3. Commit your changes: `git commit -m "Description of your changes"`.
+3. Commit your changes: `git commit -m "Description of your changes".
 4. Push the changes to your fork: `git push origin feature-name`.
 5. Open a pull request detailing your changes.
 
