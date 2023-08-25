@@ -23,10 +23,10 @@ TortoiseTTS Audio to Cloning is a project that explores the synergy between text
 
 To get started, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/yourusername/TortoiseTTS_AudioToCloning.git`
-2. Navigate to the project directory: `cd TortoiseTTS_AudioToCloning`
-3. Set up your virtual environment: `virtualenv venv && source venv/bin/activate`
-4. Install dependencies: `pip install -r requirements.txt`
+1. Clone this repository: `git clone https://github.com/jnordberg/tortoise-tts.git`
+2. Navigate to the tortoise directory: `cd tortoise-tts`
+3. Set up your virtual environment: `virtualenv venv && source venv/bin/activate` OR use the Google Colab Demo I have provided and run the cells gradually. 
+4. Install dependencies: 
 
 ## Usage
 
@@ -35,13 +35,13 @@ To get started, follow these steps:
 To train the TortoiseTTS model, follow these steps:
 
 1. Prepare your training data in the required format.
-2. Run the training script: `python train.py --data_dir /path/to/training/data`
+
 
 ### Generating Speech
 
 Generate speech using the trained model:
 
-1. Run the generation script: `python generate.py --text "Hello, how are you?"`
+1. Synthesis  & generate a speech for the text you have inputtedl
 
 ## Voice Cloning
 
@@ -61,6 +61,6 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 4. Push the changes to your fork: `git push origin feature-name`.
 5. Open a pull request detailing your changes.
 
-## License
+## References
+TorToiSe | https://github.com/neonbjb/tortoise-tts
 
-This project is licensed under the [MIT License](LICENSE).
