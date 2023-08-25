@@ -15,7 +15,7 @@ To get started, follow these steps:
 
 1. Clone this repository: `git clone https://github.com/jnordberg/tortoise-tts.git`
 2. Navigate to the tortoise directory: `cd tortoise-tts`
-3. Set up your virtual environment: `virtualenv venv && source venv/bin/activate` OR use the Google Colab Demo I have provided and run the cells gradually. 
+3. Set up your virtual environment: `virtualenv venv && source venv/bin/activate` OR use the Google Colab Demo I have provided and run the cells gradually.  Link: https://colab.research.google.com/drive/1eH2nRBG9Cx-muT69DJwNjtxJkqWLH9b3?usp=sharing
 4. Install dependencies.
 
 ## Usage
