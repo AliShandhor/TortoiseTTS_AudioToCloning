@@ -1,5 +1,4 @@
 # TortoiseTTS Audio to Cloning
-TortoiseTTS Audio to Cloning
 ## Overview
 
 TortoiseTTS Audio to Cloning is a project that explores the synergy between text-to-speech (TTS) technology and voice cloning. This repository contains the necessary code and resources for training, utilizing, and experimenting with a TTS model named TortoiseTTS. The project also investigates the potential of using TortoiseTTS for voice cloning purposes, leveraging existing audio data.
